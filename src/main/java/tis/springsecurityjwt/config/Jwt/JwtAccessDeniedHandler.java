@@ -1,4 +1,4 @@
-package tis.springsecurityjwt.security;
+package tis.springsecurityjwt.config.Jwt;
 
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.web.access.AccessDeniedHandler;

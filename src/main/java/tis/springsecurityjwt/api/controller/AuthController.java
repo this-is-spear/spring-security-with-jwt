@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import tis.springsecurityjwt.api.dto.LoginDto;
 import tis.springsecurityjwt.api.dto.TokenDto;
-import tis.springsecurityjwt.security.JwtTokenProvider;
+import tis.springsecurityjwt.config.Jwt.JwtTokenProvider;
 
 import javax.validation.Valid;
 
